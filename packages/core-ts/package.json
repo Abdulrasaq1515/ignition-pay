@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@stellar-address-kit/spec": "file:../spec",
-    "@stellar/stellar-sdk": "^12.3.0",
+    "@stellar/stellar-sdk": "^17.4.0",
     "@typescript-eslint/parser": "^6.21.0",
     "eslint": "^8.56.0",
     "json-schema-to-typescript": "^15.0.4",
